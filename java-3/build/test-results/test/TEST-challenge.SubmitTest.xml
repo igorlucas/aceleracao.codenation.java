@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.SubmitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-05-01T17:48:03" hostname="lenovo-note" time="3.496">
+  <properties/>
+  <testcase name="q1" classname="challenge.SubmitTest" time="0.485"/>
+  <testcase name="q2" classname="challenge.SubmitTest" time="0.428"/>
+  <testcase name="q3" classname="challenge.SubmitTest" time="0.488"/>
+  <testcase name="q4" classname="challenge.SubmitTest" time="0.677"/>
+  <testcase name="q5" classname="challenge.SubmitTest" time="1.138"/>
+  <testcase name="q6" classname="challenge.SubmitTest" time="0.277"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
